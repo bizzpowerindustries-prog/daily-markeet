@@ -1,7 +1,7 @@
-# DailyMart.pk - Complete E-commerce Marketplace
+# DailyMarket.pk - Complete E-commerce Marketplace
 
 ## Overview
-DailyMart.pk is a complete e-commerce marketplace platform like Daraz.pk, built with Laravel 9, Kotlin (Android), and Firebase.
+DailyMarket.pk is a complete e-commerce marketplace platform like Daraz.pk, built with Laravel 9, Kotlin (Android), and Firebase.
 
 ## Features
 - Multi-vendor marketplace
